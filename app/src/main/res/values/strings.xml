@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="about">Developed by: <a href = "https://github.com/Anshit01">Anshit</a></string>
+</resources>

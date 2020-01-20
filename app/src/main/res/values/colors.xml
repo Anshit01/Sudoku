@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9CFC56</color>
+    <color name="colorPrimaryDark">#51B600</color>
+    <color name="colorAccent">#0062DA</color>
+
+    <color name="button">#FF6F6F</color>
+    <color name="background">#B7D19C</color>
+    
+    <color name="boardColorDark">#DBDBDB</color>
+    <color name="boardColorLight">#F5F5F5</color>
+    <color name="boardColorActive">#8CBDFF</color>
+    <color name="boardColorActiveWrong">#C93939</color>
+    <color name="boardColorLightDisabled">#ECE5E5</color>
+    <color name="boardColorDarkDisabled">#BBB5B5</color>
+
+    <color name="winColor">#93F795</color>
+    <color name="winExit">#FF6A60</color>
+
+    <color name="boardTextColorLight">#858585</color>
+
+    <color name="black">#000000</color>
+</resources>
